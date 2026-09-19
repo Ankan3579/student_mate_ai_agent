@@ -56,7 +56,7 @@ Each specialist agent: **search (Tavily) → scrape top pages → answer only fr
 | Agents & workflow | LangChain, LangGraph |
 | LLM | Mistral Medium 3.5 via OpenRouter |
 | Web search & scraping | Tavily, Requests, BeautifulSoup |
-| Guardrails | LLM structured output (Pydantic) |
+| Guardrails | AI Guardrails that checks the input is correct according to my project and output is correct that comes from LLM if wrong it will block  |
 | UI | Streamlit |
 
 ## 📁 Project Structure

@@ -1,0 +1,15 @@
+langchain
+langgraph
+langchain-groq
+langchain-mistralai
+fastapi
+uvicorn
+
+psycopg[binary]
+SQLAlchemy
+langgraph-checkpoint-postgres
+python-dotenv
+langchain-tavily
+tavily-python
+requests
+groq
